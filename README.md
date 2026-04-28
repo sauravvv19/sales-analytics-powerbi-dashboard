@@ -1,4 +1,4 @@
-# powerbi-sales-dashboard
+# sales-analytics-powerbi-dashboard
 
 📌 Project Overview
 
